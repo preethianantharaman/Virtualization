@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openstack4j.api.OSClient"/>
+<fullyQualifiedTypeName name="org.openstack4j.openstack.OSFactory"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.openstack4j.model.identity.Tenant"/>
+<fullyQualifiedTypeName name="org.openstack4j.core.transport.Config"/>
+</qualifiedTypeNameHistroy>

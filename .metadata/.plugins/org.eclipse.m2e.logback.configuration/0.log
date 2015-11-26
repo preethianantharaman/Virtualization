@@ -1,0 +1,194 @@
+2015-11-25 18:39:42,835 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\pom.xml
+2015-11-25 18:39:44,285 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.openstack:api:0.0.1-SNAPSHOT @ C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\pom.xml.
+2015-11-25 18:39:46,448 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2015-11-25 18:39:46,449 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/main/resources
+2015-11-25 18:39:46,456 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2015-11-25 18:39:50,265 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2015-11-25 18:39:51,981 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:39:51,989 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 18:39:51,991 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:39:51,992 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 18:50:03,377 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.openstack:api:0.0.1-SNAPSHOT @ C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\pom.xml.
+2015-11-25 18:50:04,004 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/pacesys/openstack4j/2.0.9/openstack4j-2.0.9.pom
+2015-11-25 18:50:04,056 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/pacesys/openstack4j/2.0.9/openstack4j-2.0.9.pom
+2015-11-25 18:50:04,307 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/pacesys/openstack4j/2.0.9/openstack4j-2.0.9-withdeps.jar
+2015-11-25 18:50:05,676 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/pacesys/openstack4j/2.0.9/openstack4j-2.0.9-withdeps.jar
+2015-11-25 18:50:07,528 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:50:07,532 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 18:50:07,536 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:50:07,536 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 18:50:07,580 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 18:50:07,581 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 18:50:07,589 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:50:09,496 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:50:09,500 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 18:50:09,502 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:50:09,502 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 18:52:49,363 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:52:49,365 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 18:52:49,367 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:52:49,367 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 18:52:50,416 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:52:50,417 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 18:52:50,419 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:52:50,419 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 18:53:22,097 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:53:22,098 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 18:53:22,100 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 18:53:22,100 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:01:46,443 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:01:46,444 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:01:46,445 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:01:46,446 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:44:05,264 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:44:05,265 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:44:05,267 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:44:05,268 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:45:35,896 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 19:45:35,896 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-25 19:45:38,747 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:45:38,751 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:45:38,753 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:45:38,753 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:45:38,754 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 19:45:38,754 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 19:45:38,768 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:45:42,390 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-25 19:45:47,246 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 19:45:47,246 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-11-25 19:46:55,701 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:46:55,702 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:46:55,704 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:46:55,704 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:46:57,796 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:46:57,797 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:46:57,797 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:46:57,797 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:47:05,516 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 19:47:05,516 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-25 19:47:08,618 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:47:08,619 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:47:08,620 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:47:08,620 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:47:08,620 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 19:47:08,620 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 19:47:08,624 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:47:15,188 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-25 19:47:15,232 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 19:47:15,232 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-11-25 19:51:27,255 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 19:51:27,256 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-25 19:51:30,043 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:30,043 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:51:30,044 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:30,044 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:51:30,045 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 19:51:30,045 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 19:51:30,048 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:35,881 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-25 19:51:37,383 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 19:51:37,383 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-11-25 19:51:38,124 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.openstack:api:0.0.1-SNAPSHOT @ C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\pom.xml.
+2015-11-25 19:51:40,938 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:40,940 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:51:40,943 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:40,943 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:51:40,949 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 19:51:40,949 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 19:51:40,953 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:41,778 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:41,778 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:51:41,780 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:51:41,780 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:52:35,028 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-25 19:52:35,576 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.openstack:api:0.0.1-SNAPSHOT @ C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\pom.xml.
+2015-11-25 19:52:37,547 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2015-11-25 19:52:37,548 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/main/resources
+2015-11-25 19:52:37,548 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2015-11-25 19:52:38,256 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for api
+2015-11-25 19:52:38,264 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-11-25 19:52:39,056 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:52:39,057 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:52:39,058 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:52:39,058 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 19:52:39,058 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 19:52:39,058 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 19:52:39,063 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:54:08,615 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:54:08,618 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 19:54:08,619 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 19:54:08,620 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:03:41,967 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:03:41,967 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:03:41,969 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:03:41,969 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:03:55,171 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:03:55,172 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:03:55,173 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:03:55,173 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:04:53,916 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:04:53,918 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:04:53,920 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:04:53,920 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:06:12,834 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:06:12,834 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:06:12,835 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:06:12,835 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:57:02,619 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:57:02,622 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:57:02,627 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:57:02,627 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:57:51,653 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:57:51,654 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:57:51,656 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:57:51,658 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:58:16,825 [Worker-69] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 20:58:16,825 [Worker-69] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-25 20:58:19,241 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:58:19,242 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:58:19,243 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:58:19,244 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:58:19,244 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 20:58:19,244 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 20:58:19,249 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:58:26,980 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-25 20:58:27,028 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api
+2015-11-25 20:58:27,028 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-11-25 20:58:47,619 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:58:47,620 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:58:47,621 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:58:47,621 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:59:01,577 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-25 20:59:02,060 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.openstack:api:0.0.1-SNAPSHOT @ C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\pom.xml.
+2015-11-25 20:59:04,874 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2015-11-25 20:59:04,874 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/main/resources
+2015-11-25 20:59:04,875 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2015-11-25 20:59:05,712 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for api
+2015-11-25 20:59:05,719 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2015-11-25 20:59:06,465 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:59:06,466 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 20:59:06,468 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 20:59:06,468 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 20:59:06,469 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2015-11-25 20:59:06,472 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2015-11-25 20:59:06,479 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:02:59,133 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:02:59,155 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 21:02:59,159 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:02:59,161 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 21:07:02,246 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:07:02,255 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 21:07:02,258 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:07:02,258 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 21:25:19,399 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:25:19,401 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 21:25:19,403 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:25:19,403 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-25 21:28:08,574 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:28:08,575 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-25 21:28:08,577 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-25 21:28:08,577 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources
+2015-11-26 01:15:55,170 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-26 01:15:55,188 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-26 01:15:55,193 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-26 01:15:55,193 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MSSE-CMC\03 Virtualization\MyStackWrkSpace\api\src\test\resources

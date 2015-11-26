@@ -1,0 +1,28 @@
+package com.openstack.api;
+
+import java.util.List;
+
+import org.openstack4j.api.OSClient;
+import org.openstack4j.model.identity.Tenant;
+import org.openstack4j.openstack.OSFactory;
+
+public class Keystone {
+	 OSClient auth  =  null;
+// Authenticate for accessing Keystone services	
+	public Keystone(){
+		
+		auth = OSFactory.builder()	
+						.endpoint("127.0.0.1:5000/v2.0")
+						.credentials("admin","7f7c19e177214f67")
+						.tenantName("admin")
+						.authenticate();
+		System.out.println("Authenticate OpenStack:" + auth);		
+		}
+// List all Tenants in Openstack
+	public void ListTenant(){
+		List<? extends Tenant> tenants = auth.identity().tenants().list();
+		for (Tenant tentant:tenants)
+			System.out.println("Tentant list: " + tenants);
+	}
+	
+}

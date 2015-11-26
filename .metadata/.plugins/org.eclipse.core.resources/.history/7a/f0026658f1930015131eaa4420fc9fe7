@@ -1,0 +1,12 @@
+package com.openstack.api;
+
+public class OpenStackMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Keystone openstone = new Keystone();
+		openstone.ListTenant();
+
+	}
+
+}

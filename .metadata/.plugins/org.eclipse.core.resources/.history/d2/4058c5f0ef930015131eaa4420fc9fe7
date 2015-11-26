@@ -1,0 +1,19 @@
+package com.openstack.api;
+
+import org.openstack4j.api.OSClient;
+import org.openstack4j.openstack.OSFactory;
+
+public class Keystone {
+	public OSClient auth  =  null;
+	
+	public Keystone(){
+		
+		OSClient auth = OSFactory.builder()	
+								 .endpoint("127.0.0.1:5000/v2.0")
+								 .credentials("admin","7f7c19e177214f67")
+								 .tenantName("admin")
+								 .authenticate();
+				
+			
+	}
+}

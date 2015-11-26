@@ -1,0 +1,25 @@
+package com.openstack.api;
+
+import org.openstack4j.api.OSClient;
+import org.openstack4j.core.transport.Config;
+import org.openstack4j.openstack.OSFactory;
+
+public class OpenStackMain {
+
+	public static void main(String[] args) {
+		public OSClient auth  =  null;
+		// TODO Auto-generated method stub
+		System.out.println("Openstack Starts");
+	//	Keystone openstone = new Keystone();
+	//	openstone.ListTenant();
+		System.out.println("Keystone Authentication");
+		auth = OSFactory.builder()	
+						.endpoint("127.0.0.1:5000/v2.0")
+						.credentials("admin","7f7c19e177214f67")
+						.tenantName("admin")
+						.withConfig(Config.newConfig().withEndpointNATResolution("127.0.0.1")) 
+						.authenticate();
+		System.out.println("Authenticate OpenStack:" + auth);	
+	}
+
+}
